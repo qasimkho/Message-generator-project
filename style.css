@@ -7,10 +7,32 @@ nav {
     background-color: #D9D9D9;
     height: 62px;
     display: flex;
+    border: 1px solid red;
 }
 
 .logo {
     height: 43px;
     width: 43px;
-    align-content: center;
+    padding: 10px;
+}
+
+.logo--text {
+    padding-right: 15px;
+}
+
+section {
+    border: 1px solid red;
+}
+
+button {
+    background-color: #2FB02D;
+    border-radius: 10px;
+    height: 50px;
+    width: 20%;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
