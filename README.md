@@ -14,7 +14,7 @@
 
 ## Planning out the project for better execution
 
-1. Try to visuallize with figma. A rough draft would suffice.
+1. Try to visuallize with figma. A rough draft would suffice. (https://www.figma.com/file/VqnJva72xgCRi1CKXWjrjP/random-message-generator?node-id=0%3A1&t=4lHzLIbVqpICGu5b-0)
 2. It will be built with HTML, CSS and JS.
 3. **Make sure that it satisfies all of the project objectives.**
 4. Aim to end the project within a week.
