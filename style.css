@@ -38,3 +38,13 @@ button {
     font-family: 'Aclonica', sans-serif;
     font-size: 1.25rem;
 }
+
+.quote {
+    text-align: center;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+}
+
+#quoteDisplay {
+    align-content: center;
+}
