@@ -1,4 +1,7 @@
+// import data from './data';
 
+// const button = document.querySelector('#myButton');
+// const quoteElement = document.querySelector('#quote');
 
 const data = [
     {
@@ -1554,7 +1557,13 @@ const data = [
 function quoteGen() {
     const n = Math.floor(Math.random() * data.length);
     let friend = data[n];
-    console.log(friend.quote)
+    return friend.quote;
 }
- quoteGen()
+//  quoteGen()
+
+ document.getElementById("myBtn").addEventListener("click", displayQuote);
+
+ function displayQuote() {
+   document.getElementById("demo").innerHTML = quoteGen();
+ }
 
