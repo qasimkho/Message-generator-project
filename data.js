@@ -1,4 +1,4 @@
-export default data =  
+export default
 [
     {
         "quote": "Be yourself; everyone else is already taken.",

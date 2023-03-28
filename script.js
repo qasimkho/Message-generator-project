@@ -1,7 +1,3 @@
-// import data from './data';
-
-// const button = document.querySelector('#myButton');
-// const quoteElement = document.querySelector('#quote');
 
 const data = [
     {
