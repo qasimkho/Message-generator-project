@@ -48,3 +48,17 @@ button {
 #quoteDisplay {
     align-content: center;
 }
+
+.box {
+    border: 1px solid red;
+    display: flex;
+    margin:50px;
+    background-color: #D9D9D9;
+    justify-content: center;
+    align-items: center;
+}
+
+.box > p {
+    
+    margin:50px
+}
